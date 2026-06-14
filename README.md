@@ -1,32 +1,25 @@
 # Bash Scripts Portfolio
 
-Kumpulan script Bash yang saya buat selama belajar Linux Administration dan Networking.
+A collection of Bash scripts created while learning Linux, networking, and system administration using Termux and Kali Linux on Android.
 
 ## Scripts
 
-### network_info.sh
-Menampilkan informasi jaringan seperti IP Address, DNS, dan Gateway.
+### Networking
+- network_info.sh
+- ping-sweep.sh
+- port_count.sh
 
-### host_count.sh
-Menghitung jumlah host dari hasil scan Nmap.
+### System
+- info_sistem.sh
 
-### port_count.sh
-Menampilkan dan menghitung port yang terbuka dari hasil scan.
+### Utilities
+- cyber_menu.sh
+- host_count.sh
 
-### ping-sweep.sh
-Melakukan pengecekan host aktif dalam jaringan.
-
-### cyber_menu.sh
-Menu interaktif berbasis Bash untuk menampilkan informasi jaringan dan melakukan pengecekan dasar.
-
-## Skills Used
-
+## Skills Practiced
 - Bash Scripting
 - Linux Administration
 - Networking
 - grep
 - awk
-- sort
-- uniq
-- wc
 - Nmap
