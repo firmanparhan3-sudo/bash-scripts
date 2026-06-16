@@ -152,7 +152,3 @@ Simple Bash menu for practicing Linux scripting and user interaction.
 M. Firman Parhanul Hakim
 
 GitHub: firmanparhan3-sudo
-
-```
-```
-
